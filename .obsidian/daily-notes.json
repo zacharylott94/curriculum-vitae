@@ -1,0 +1,5 @@
+{
+  "autorun": true,
+  "format": "YYYY-MM-DD-HHmm",
+  "folder": "corpus"
+}
