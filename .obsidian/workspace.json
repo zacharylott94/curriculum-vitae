@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f86ba5c42ed4ae55",
+        "id": "0cd3f9c16415269d",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9da7499edf7c96",
+            "id": "f1f82f49d24c3e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,22 +163,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ad9da7499edf7c96",
+  "active": "f1f82f49d24c3e3b",
   "lastOpenFiles": [
+    "corpus/2024-12-01-1905.md",
+    "corpus/2024-12-01-1510.md",
+    "media/1.mov",
+    "media/3.jpg",
+    "media/2.jpg",
     "media/8.jpg",
     "media/7.jpg",
     "media/6.jpg",
     "media/5.jpg",
     "media/4.jpg",
-    "media/3.jpg",
-    "media/2.jpg",
     "media/1.mp4",
     "media/20241201_161156.jpg",
     "media/20241201_160535.jpg",
     "media/20241201_160508.jpg",
-    "media/20241201_155451.jpg",
     "media/20241201_154033.mp4",
-    "corpus/2024-12-01-1510.md",
     "corpus/2024-11-30-1136.md",
     "Readme.md",
     "media",
