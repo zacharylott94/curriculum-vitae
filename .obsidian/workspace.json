@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "2024-12-01-1510"
             }
-          },
-          {
-            "id": "bbdfc0e51f4a6acc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "media/20241201_160508.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "20241201_160508"
-            }
           }
         ]
       }
@@ -177,17 +165,19 @@
   },
   "active": "ad9da7499edf7c96",
   "lastOpenFiles": [
+    "media/8.jpg",
+    "media/7.jpg",
+    "media/6.jpg",
+    "media/5.jpg",
+    "media/4.jpg",
+    "media/3.jpg",
+    "media/2.jpg",
+    "media/1.mp4",
     "media/20241201_161156.jpg",
-    "media/20241201_160508.jpg",
     "media/20241201_160535.jpg",
+    "media/20241201_160508.jpg",
     "media/20241201_155451.jpg",
-    "media/20241201_155430.jpg",
-    "media/20241201_154702.jpg",
-    "media/20241201_155429.jpg",
-    "media/20241201_154614.jpg",
     "media/20241201_154033.mp4",
-    "media/20241201_152731.jpg",
-    "media/20241201_154026.jpg",
     "corpus/2024-12-01-1510.md",
     "corpus/2024-11-30-1136.md",
     "Readme.md",
